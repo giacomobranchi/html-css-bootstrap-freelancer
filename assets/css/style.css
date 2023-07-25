@@ -3,6 +3,19 @@
     background-color: aqua;
 }
 
+.debug .contacts {
+    height: 400px;
+    background-color: coral;
+}
+
 .jumbotron {
     background-color: #1abc9c;
+}
+
+.about {
+    background-color: #1abc9c;
+}
+
+header {
+    background-color: #3a546d;
 }
