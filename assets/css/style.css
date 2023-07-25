@@ -16,6 +16,12 @@
     background-color: #1abc9c;
 }
 
-header {
+footer {
     background-color: #3a546d;
+}
+
+.social {
+    width: 2.5rem;
+    height: 2.5rem;
+    padding: 0.4rem;
 }
