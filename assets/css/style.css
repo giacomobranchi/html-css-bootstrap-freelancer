@@ -12,6 +12,20 @@
     background-color: #1abc9c;
 }
 
+.line {
+    height: 3px;
+    background-color: white;
+    width: 50px;
+    border-radius: 1.5px;
+}
+
+.line_black {
+    height: 3px;
+    background-color: black;
+    width: 50px;
+    border-radius: 1.5px;
+}
+
 .about {
     background-color: #1abc9c;
 }
