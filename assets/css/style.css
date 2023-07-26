@@ -1,8 +1,3 @@
-.debug header {
-    height: 70px;
-    background-color: aqua;
-}
-
 .debug .contacts {
     height: 400px;
     background-color: coral;
@@ -13,17 +8,17 @@
 }
 
 .line {
-    height: 3px;
+    height: 4px;
     background-color: white;
     width: 50px;
-    border-radius: 1.5px;
+    border-radius: 2px;
 }
 
 .line_black {
-    height: 3px;
+    height: 4px;
     background-color: black;
     width: 50px;
-    border-radius: 1.5px;
+    border-radius: 2px;
 }
 
 .about {
